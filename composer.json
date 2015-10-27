@@ -1,5 +1,5 @@
 {
-  "name": "johnbillion/wordpress-behat-extension",
+  "name": "kwaters12/wordpress-behat-extension",
   "type": "library",
   "description": "WordPress extension for Behat 3",
   "authors": [
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "require": {
-    "behat/behat": "~3.0,>=3.0.4",
+    "behat/behat": "2.5.*@stable",
     "behat/mink-extension": "~2.0@dev",
     "symfony/filesystem": "~2.3",
     "symfony/finder": "~2.3",
